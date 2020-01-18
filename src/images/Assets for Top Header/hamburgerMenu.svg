@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="4811 -1952 34 34">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        opacity: 0.21;
+      }
+
+      .cls-3 {
+        opacity: 0.668;
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="18" height="14"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3419" data-name="Group 3419" transform="translate(4802 -1960)">
+    <circle id="Ellipse_1916" data-name="Ellipse 1916" class="cls-2" cx="17" cy="17" r="17" transform="translate(9 8)"/>
+    <g id="Repeat_Grid_130" data-name="Repeat Grid 130" class="cls-3" transform="translate(17 18)">
+      <g transform="translate(-16.5 -19.5)">
+        <line id="Line_646" data-name="Line 646" class="cls-4" x2="18" transform="translate(16.5 21.5)"/>
+      </g>
+      <g transform="translate(-16.5 -14.5)">
+        <line id="Line_646-2" data-name="Line 646" class="cls-4" x2="18" transform="translate(16.5 21.5)"/>
+      </g>
+      <g transform="translate(-16.5 -9.5)">
+        <line id="Line_646-3" data-name="Line 646" class="cls-4" x2="18" transform="translate(16.5 21.5)"/>
+      </g>
+    </g>
+  </g>
+</svg>

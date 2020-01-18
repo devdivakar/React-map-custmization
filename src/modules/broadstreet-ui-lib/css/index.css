@@ -1,0 +1,95 @@
+.bsui-maincontainer
+{
+  width: 100%;
+  overflow: hidden;
+}
+
+.bsui-leftcontainer
+{
+  width: 100%;
+  background-color: #F9F9F9;  
+  overflow: hidden;
+  padding-top: 68px;
+  padding-bottom: 38px;
+}
+
+.bsui-contentcontainer-open
+{
+  background-color: #F9F9F9;
+  font-family: Arial;
+  font-size: 16px;
+  /* margin-left: 255px; */
+  padding-left: 255px;
+}
+.projectBoard-right-component{
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+
+.bsui-contentcontainer-closed
+{
+  background-color: #F9F9F9;
+  font-family: Arial;
+  font-size: 16px;
+  margin:0px auto;
+}
+
+.bsui-topnavmenu
+{
+  background-color: #403F4C;
+  border-color: #27272C;
+  color: #D8DBE2;
+  font-family: Arial;
+  font-size: 16px;
+  text-align: left;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  position: fixed;
+  left: 0; 
+  right: 0;
+  top: 0;
+  width: 100%;
+  z-index: 991;
+}
+
+.bsui-leftnavmenu-open
+{
+  padding-top: 12px;
+  background-color: transparent;
+  font-family: Raleway-Light;
+  color: #5A5A5A;
+  float:left;
+  /* height:1505px; */
+  text-align: left;
+  width: 255px;
+  position: fixed;
+    height: 100%;
+    left: 0;
+    overflow: auto;
+    padding: 25px 0 80px;
+    top: 50px;
+    bottom: 0;
+}
+
+.bsui-leftnavmenu-closed
+{
+  background-color: #F1F1F1;
+  font-family: Raleway-Light;
+  color: #5A5A5A;
+  float:left;
+  height:1505px;
+  text-align: left;
+  width: 0px;
+}
+
+@media screen and (max-width:687px){
+    .bsui-leftnavmenu-open {z-index: 1; display: none; width: 0px;}
+    .bsui-contentcontainer-open
+    {
+      padding-left: 0px;
+      margin:0px auto;
+    }
+}
+

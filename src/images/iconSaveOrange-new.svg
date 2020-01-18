@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="13476.712 -14007.669 23.669 14.108">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #f78e69;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="Group_3533" data-name="Group 3533" transform="translate(13476.712 -14007.669)">
+    <line id="Line_594" data-name="Line 594" class="cls-1" x2="15.779" transform="translate(7.89 13.358)"/>
+    <line id="Line_595" data-name="Line 595" class="cls-1" x2="15.779" transform="translate(7.89 9.14)"/>
+    <line id="Line_596" data-name="Line 596" class="cls-1" x2="11.476" transform="translate(12.193 4.921)"/>
+    <line id="Line_597" data-name="Line 597" class="cls-1" x2="10.041" transform="translate(0 4.921)"/>
+    <line id="Line_598" data-name="Line 598" class="cls-1" x2="9.843" transform="translate(5.021) rotate(90)"/>
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e3e3e3;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #989898;
+      }
+
+      .cls-4 {
+        font-size: 4px;
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #707070;
+      }
+
+      .cls-6, .cls-7 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: #707070;
+      }
+    </style>
+  </defs>
+  <g id="socialEmbed" transform="translate(-0.5 -0.5)">
+    <circle id="Ellipse_1924" data-name="Ellipse 1924" class="cls-1" cx="17" cy="17" r="17" transform="translate(0.5 0.5)"/>
+    <g id="Group_4082" data-name="Group 4082" transform="translate(0 -1)">
+      <g id="Subtraction_177" data-name="Subtraction 177" class="cls-2" transform="translate(12028 -4572)">
+        <path class="cls-6" d="M -12002.001953125 4601.00048828125 L -12018.0009765625 4601.00048828125 L -12018.0009765625 4578.99853515625 L -12007.7060546875 4578.998046875 L -12002.001953125 4584.7080078125 L -12002.001953125 4601.00048828125 Z"/>
+        <path class="cls-7" d="M -12002.501953125 4600.50048828125 L -12002.501953125 4584.9150390625 L -12007.9130859375 4579.498046875 L -12017.5009765625 4579.49853515625 L -12017.5009765625 4600.50048828125 L -12002.501953125 4600.50048828125 M -12001.501953125 4601.50048828125 L -12001.5029296875 4601.50048828125 L -12018.5009765625 4601.50048828125 L -12018.5009765625 4578.49853515625 L -12007.4990234375 4578.498046875 L -12001.501953125 4584.5009765625 L -12001.501953125 4601.49951171875 L -12001.501953125 4601.50048828125 Z"/>
+      </g>
+      <rect id="Rectangle_5743" data-name="Rectangle 5743" class="cls-3" width="11" height="6" transform="translate(12.5 14.5)"/>
+      <rect id="Rectangle_5744" data-name="Rectangle 5744" class="cls-3" width="1.563" height="1" transform="translate(12.5 22.5)"/>
+      <rect id="Rectangle_5745" data-name="Rectangle 5745" class="cls-3" width="1.563" height="1" transform="translate(12.5 24.5)"/>
+      <rect id="Rectangle_5746" data-name="Rectangle 5746" class="cls-3" width="1.563" height="1" transform="translate(12.5 26.5)"/>
+      <text id="PDF" class="cls-4" transform="translate(18.5 19.5)"><tspan x="-4" y="0">PDF</tspan></text>
+      <rect id="Rectangle_5747" data-name="Rectangle 5747" class="cls-3" width="4.278" height="1" transform="translate(14.532 22.5)"/>
+      <rect id="Rectangle_5748" data-name="Rectangle 5748" class="cls-3" width="4.278" height="1" transform="translate(14.532 24.5)"/>
+      <rect id="Rectangle_5749" data-name="Rectangle 5749" class="cls-3" width="4.278" height="1" transform="translate(14.532 26.5)"/>
+      <path id="Path_9756" data-name="Path 9756" class="cls-5" d="M20.151,7.14l-.015,5.66h5.658" transform="translate(0 0.249)"/>
+    </g>
+  </g>
+</svg>

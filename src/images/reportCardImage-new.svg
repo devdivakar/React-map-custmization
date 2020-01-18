@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3636.926 -1063 89.074 89.074">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #008eaa;
+      }
+
+      .cls-2 {
+        opacity: 0.899;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+        stroke: #5b5850;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        opacity: 0.328;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="logo" transform="translate(2609.926 -1377)">
+    <circle id="Ellipse_2115" data-name="Ellipse 2115" class="cls-1" cx="44.537" cy="44.537" r="44.537" transform="translate(1027 314)"/>
+    <g id="Group_3528" data-name="Group 3528" class="cls-2" transform="translate(1043.967 323.408)">
+      <g id="Rectangle_4068" data-name="Rectangle 4068" class="cls-3">
+        <rect class="cls-5" width="47.518" height="61.457"/>
+        <rect class="cls-6" x="1" y="1" width="45.518" height="59.457"/>
+      </g>
+      <g id="Rectangle_4069" data-name="Rectangle 4069" class="cls-4" transform="translate(6.969 6.336)">
+        <rect class="cls-5" width="47.518" height="61.457"/>
+        <rect class="cls-6" x="1" y="1" width="45.518" height="59.457"/>
+      </g>
+    </g>
+  </g>
+</svg>

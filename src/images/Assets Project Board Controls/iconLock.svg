@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #403f4c;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #403f4c;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_4159" data-name="Group 4159" transform="translate(-639 -153)">
+    <rect id="Rectangle_5744" data-name="Rectangle 5744" class="cls-1" width="14" height="12" rx="3" transform="translate(639 160)"/>
+    <g id="Rectangle_5745" data-name="Rectangle 5745" class="cls-2" transform="translate(642 153)">
+      <rect class="cls-4" width="8" height="13" rx="4"/>
+      <rect class="cls-5" x="1" y="1" width="6" height="11" rx="3"/>
+    </g>
+    <path id="Union_125" data-name="Union 125" class="cls-3" d="M-4348.319-69.177l.978-3.34A2,2,0,0,1-4348-74a2,2,0,0,1,2-2,2,2,0,0,1,2,2,2,2,0,0,1-.792,1.594l.945,3.23Z" transform="translate(4992 238)"/>
+  </g>
+</svg>
